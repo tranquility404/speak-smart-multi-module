@@ -1,0 +1,74 @@
+{
+  "context": {
+    "speechData": {
+      "segments": [
+        {
+          "startTime": 0.0,
+          "endTime": 8.08,
+          "text": "You know, I want to talk you about something that has really changed my life and that's",
+          "averagePitch": 154.31,
+          "averageEnergy": 0.04047,
+          "speechRate": 1.98,
+          "hasAwkwardPause": false,
+          "pauseDuration": 0.0
+        },
+        {
+          "startTime": 8.08,
+          "endTime": 15.5,
+          "text": "exercising regularly. It's amazing how much better I feel",
+          "averagePitch": 162.45,
+          "averageEnergy": 0.05123,
+          "speechRate": 2.15,
+          "hasAwkwardPause": true,
+          "pauseDuration": 1.2
+        },
+        {
+          "startTime": 53.88,
+          "endTime": 55.88,
+          "text": "up your",
+          "averagePitch": 178.07,
+          "averageEnergy": 0.02925,
+          "speechRate": 1.0,
+          "hasAwkwardPause": false,
+          "pauseDuration": 0.0
+        },
+        {
+          "startTime": 76.94,
+          "endTime": 81.5,
+          "text": "few jumping jacks",
+          "averagePitch": 198.87,
+          "averageEnergy": 0.03114,
+          "speechRate": 2.63,
+          "hasAwkwardPause": false,
+          "pauseDuration": 0.0
+        }
+      ]
+    },
+    "stats": {
+      "speechRate": {
+        "average": 2.06,
+        "minimum": 0.97,
+        "maximum": 2.84,
+        "range": 1.87
+      },
+      "pitch": {
+        "average": 168.8,
+        "minimum": 150.4,
+        "maximum": 198.87,
+        "range": 48.47
+      },
+      "energy": {
+        "average": 0.0479,
+        "minimum": 0.0233,
+        "maximum": 0.0648,
+        "range": 0.0415
+      },
+      "pauses": {
+        "totalCount": 3,
+        "totalDuration": 2.5,
+        "averageDuration": 0.833,
+        "longestDuration": 1.2
+      }
+    }
+  }
+}
